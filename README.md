@@ -1,5 +1,3 @@
-Anonymous repository for IROS 2026 submission.
+This is the website for <CoLI:  Reproducible Platform for Continuum Robot Learning via Monolithic 3D Printing and Isomorphic Teleoperation>, which has been accepted by IROS2026.
 
-This webpage is provided solely for the IROS 2026 peer-review process.
-
-Please do not distribute, share, or cite this repository. The content will be updated upon paper acceptance.
+To find more open source resources, please go to TangRobot/CoLI repository.
